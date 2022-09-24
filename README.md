@@ -15,3 +15,5 @@ def check_image(<path_to_png_jpg_image_on_local_computer>). Функция пр�
 Тестовые примеры: data/test_input
 
 Описание тестовых примеров: data/test_input/about.txt
+
+План работы: data/plan_v1.txt
